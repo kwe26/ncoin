@@ -20,3 +20,5 @@ const currencyList = [
     "file": "1nc.png"
   },
 ]
+
+export default currencyList;

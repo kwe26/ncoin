@@ -11,5 +11,15 @@
   },
   "peerDependencies": {
     "typescript": "^7"
+  },
+  "dependencies": {
+    "@peculiar/x509": "^2.2.0",
+    "@types/png-chunks-encode": "^1.0.2",
+    "@types/png-chunks-extract": "^1.0.2",
+    "dotenv": "^18.0.9",
+    "png-chunks-encode": "^1.0.0",
+    "png-chunks-extract": "^1.0.0",
+    "reflect-metadata": "^0.2.2",
+    "sharp": "^0.35.5"
   }
 }
